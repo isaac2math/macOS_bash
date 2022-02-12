@@ -2,6 +2,7 @@
 
 the file includes the installation and fine tuning of 
 
+* Homebrew
 * Python (via Anaconda or Miniforge, depending on whether your CPU is x86-64 or arm) 
 * R
 * Julia
